@@ -10,7 +10,7 @@
     "eject": "react-scripts eject"
   },
   "keywords": ["button", "design system"],
-  "author": "Tên của bạn", // Thay thế 'Tên của bạn' bằng tên thật của tác giả
+  "author": "Your Name", // Thay thế 'Your Name' bằng tên thật của tác giả
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
