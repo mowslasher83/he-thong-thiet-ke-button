@@ -36,6 +36,6 @@ module.exports = {
         // Configuration for the development server
         contentBase: path.join(__dirname, 'dist'),
         compress: true,
-        port: 9000
+        port: 9000 // Port for the dev server
     }
 };
